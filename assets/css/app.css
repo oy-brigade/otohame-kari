@@ -210,3 +210,6 @@ body {
   background-color: #09c;
   font-family: sans-serif;
 }
+a {
+  color: inherit;
+}
